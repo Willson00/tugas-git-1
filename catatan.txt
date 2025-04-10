@@ -1,0 +1,2 @@
+Ini adalah tugas Git saya.
+Saya sedang belajar Git dan GitHub.
