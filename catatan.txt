@@ -1,2 +1,6 @@
 Ini adalah tugas Git saya.
 Saya sedang belajar Git dan GitHub.
+
+baris 2
+
+Ini ditambahkan di branch fitur-baru.
